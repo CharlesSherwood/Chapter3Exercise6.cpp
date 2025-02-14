@@ -26,7 +26,7 @@ int main()
 	//Get the amount of cookies the user wants.
 	cout << "Please enter the amount of cookies that you would like to make:";
 	cin >> cookies;
-	cout << "You want to make " << cookies << endl;
+	cout << "You want to make " << cookies << " Cookies"<<endl;
 
 	//Divide the new cookies with the old amount.
 	Newcookie = cookies / OGcookies;
